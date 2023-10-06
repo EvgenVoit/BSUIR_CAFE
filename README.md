@@ -1,2 +1,2 @@
 # BSUIR_CAFE
-Cafe managment system (REST API) that was created by the help of Indian magicians using Java Framework Spring, JWT, MySQL DB, Spring Security ant etc. 
+Cafe managment system (REST API) that was created by the help of Indian magicians using Java Framework Spring, JWT, MySQL DB, Spring Security and etc. 
